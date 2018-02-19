@@ -1,0 +1,4 @@
+[submodule "bhumibiztechconsultancy/odoo-11"]
+	path = bhumibiztechconsultancy/odoo-11
+	url = git@github.com:bhumibiztechconsultancy/odoo-11.git
+	branch = development-1
